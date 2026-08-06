@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.1.1](https://github.com/terraform-aws-modules/terraform-aws-redshift/compare/v7.1.0...v7.1.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#113](https://github.com/terraform-aws-modules/terraform-aws-redshift/issues/113)) ([f57a251](https://github.com/terraform-aws-modules/terraform-aws-redshift/commit/f57a2519455acc7ab935981fe08a9f159088ceec))
+
 ## [7.1.0](https://github.com/terraform-aws-modules/terraform-aws-redshift/compare/v7.0.0...v7.1.0) (2026-01-08)
 
 ### Features
